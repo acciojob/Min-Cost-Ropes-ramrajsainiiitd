@@ -3,9 +3,6 @@ function mincost(arr)
 { 
 //write your code here
 // return the min cost
-{ 
-//write your code here
-// return the min cost
 // base condition
 if(arr.length==1){
 return MinCost;
